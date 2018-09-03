@@ -8,6 +8,6 @@ public class AutoCommitResource {
 
 	@GetMapping ("/callme")
 	public String callme() {
-		return "Successfull !!";
+		return "Successfull !!!!!!!";
 	}
 }
